@@ -167,7 +167,7 @@
   margin-left: 40px;
   width: 192px;
   text-decoration: underline 0;
-  text-underline-offset: 5px; 
+  text-underline-offset: 5px;
 }
 
 .card {
@@ -179,7 +179,7 @@
   font-weight: 700;
   text-transform: uppercase;
   text-decoration: underline 0;
-  text-underline-offset: 3px; 
+  text-underline-offset: 3px;
 }
 
 .card__text {
@@ -250,7 +250,7 @@
   flex-direction: column;
   grid-row-start: 4;
   font-size: 20px;
-  gap: 24px;  
+  gap: 24px;
 }
 
 .footer {
